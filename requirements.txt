@@ -1,0 +1,7 @@
+ckip_transformers==0.3.4
+cn2an==0.5.23
+OpenCC==1.1.9
+PyQt5==5.15.11
+PyQt5_sip==12.13.0
+sounddevice==0.5.1
+vosk==0.3.44
